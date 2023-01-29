@@ -1,0 +1,4 @@
+desc 'Preview GitHub Pages on http://localhost:8080/77/'
+task :default do
+  sh 'bundle exec jekyll serve --host=0.0.0.0 --port=8080 --watch'
+end

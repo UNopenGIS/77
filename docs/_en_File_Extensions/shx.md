@@ -1,3 +1,8 @@
+---
+layout: page
+title: .shp
+---
+
 # .shx
 
 `.shx` is a part of `Shapefile`.

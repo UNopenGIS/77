@@ -1,3 +1,8 @@
+---
+layout: page
+title: GeoJSON
+---
+
 # GeoJSON
 
 > GeoJSON is an open standard format designed for representing simple geographical features, along with their non-spatial attributes. It is based on the JSON format.

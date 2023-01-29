@@ -1,3 +1,8 @@
+---
+layout: page
+title: .dbf
+---
+
 # .dbf
 
 `.dbf` is a part of `Shapefile`.

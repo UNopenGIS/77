@@ -1,3 +1,8 @@
+---
+layout: page
+title: COPC
+---
+
 # LAS
 
 > COPC – Cloud Optimized Point Cloud

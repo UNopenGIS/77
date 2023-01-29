@@ -1,3 +1,8 @@
+---
+layout: page
+title: .shp
+---
+
 # .shp
 
 `.shp` is a part of `Shapefile`.
