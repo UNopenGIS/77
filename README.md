@@ -1,2 +1,3 @@
 # 77
-DWG 7 Smart Maps Objective 7 "Core"
+
+UN Open GIS DWG-7 Smart Maps Objective 7 "Core"
