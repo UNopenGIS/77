@@ -1,6 +1,6 @@
 ---
 layout: page
-title: .shp
+title: .shx
 ---
 
 # .shx
